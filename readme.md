@@ -1,4 +1,4 @@
 # Web-Photos
 Timothy Lugalia
-[the link is here](https://timothylugalia.github.io/web-photos/)
-
+[the link is here](https://timothylugalia.github.io/web-photos/) 
+licensed under the [MIT license](license)
